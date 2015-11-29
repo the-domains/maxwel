@@ -1,0 +1,28 @@
+name: Maxwel
+favicon: null
+layout_spectrum: 0.192465617088601
+typography_spectrum: 0.21277234540320933
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9037861509714276
+  lightness: 0.41878751548938453
+  saturation: 0.6952672062907368
+  rhythmicContrast: 0.08624226809479296
+purpose: []
